@@ -4,7 +4,6 @@ def odwroc_kod ():
     for a in liczby:
         stos.append(int(a))
     while stos:
-        print(stos.pop() and '')
-odwroc_kod()
+        print(stos.pop())
 
-#dokonczyc
+odwroc_kod()
